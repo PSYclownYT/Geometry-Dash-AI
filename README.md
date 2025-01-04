@@ -42,7 +42,7 @@ pip install pillow numpy opencv-python pyautogui mss
 ## Installation
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/geometry-dash-ai.git
+   git clone https://github.com/PSYclownYT/Geometry-Dash-AI/
    cd geometry-dash-ai
    ```
 2. Install the required Python packages listed above.
