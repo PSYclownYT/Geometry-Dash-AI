@@ -1,3 +1,7 @@
+# disclaimer: this readme was generated using AI.
+other uses of ai in this project are NOT present during the final cut, and were only used for demonstration.
+(in other words, i had no idea pyautogui existed.)
+
 Here's a sample `README.md` for your Geometry Dash AI automation project:
 
 # Geometry Dash AI
